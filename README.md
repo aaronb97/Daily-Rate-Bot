@@ -8,7 +8,9 @@ This bot logs rates for days on a scale from 0 to 10 for members of a GroupMe gr
 ### /rate
 
 > Usage: /rate [number]
+
 > [number] is a number from 0 to 10
+
 > Ex: /rate 5
 
 This command logs a rate into the sheet for the previous day. Days may only be rated after day is over, i.e. after midnight.
