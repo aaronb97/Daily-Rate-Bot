@@ -3,6 +3,8 @@
 
 This bot logs rates for days on a scale from 0 to 10 for members of a GroupMe group chat. For example, if a member had a very good day, they may rate it an 8 or a 9, whereas if they had a bad day they may rate it 2 or 3. Rates are logged in a Google sheet. The bot runs on Heroku, a cloud platform.
 
+https://www.youtube.com/watch?v=U-ntwMZ-C5Y&feature=youtu.be - A demonstration of the bot (running locally on my computer)
+
 <!--![Chart](screenshots/chart.png)
 ![Bot Messages](screenshots/botmessages.png) -->
 
