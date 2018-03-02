@@ -19,7 +19,9 @@
     "googleapis": "^24.0.0",
     "moment": "^2.20.1",
     "syllable": "^3.0.0",
-    "winston": "2.2.0"
+    "winston": "2.2.0",
+    "wolfram": "^0.3.4",
+    "wolfram-alpha": "^0.6.0"
   },
   "devDependencies": {
     "localtunnel": "1.8.1",
