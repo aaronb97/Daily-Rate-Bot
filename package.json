@@ -20,6 +20,7 @@
     "googleapis": "^24.0.0",
     "last.fm.api": "^0.1.3",
     "moment": "^2.22.2",
+    "moment-timezone": "^0.5.23",
     "node-pre-gyp": "^0.10.0",
     "sentiment": "^4.2.0",
     "syllable": "^3.0.0",
