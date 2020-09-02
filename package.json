@@ -18,7 +18,7 @@
     "emotional": "0.0.3",
     "google-auth-library": "^0.12.0",
     "google-translate": "^2.2.0",
-    "googleapis": "^24.0.0",
+    "googleapis": "^39.1.0",
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.23",
     "node-pre-gyp": "^0.10.3",
